@@ -6,10 +6,10 @@
 🎵 I love producing music, creating games, and programming microcontrollers <br/>
 
 💻 Notable projects I worked on: 
-  - 🚀 UNO.farm - a Yield Farming Aggregator protocol
-  - 📝 dWill.app - a Decentralized non-custodial inheritance protocol
-  - 🌎 BDNS.app - an ENS fork
-  - 🎟️ eesee - an NFT marketplace with raffle system
+  - 🚀 UNO.farm - a Yield Farming Aggregator Protocol
+  - 📝 dWill.app - a Decentralized non-Custodial Inheritance Protocol
+  - 🌎 BDNS.app - an ENS Fork
+  - 🎟️ eesee - an NFT Marketplace With Raffling System
 
 I'm always looking for new opportunities to learn and grow as a developer. If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me!
 
