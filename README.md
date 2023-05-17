@@ -3,7 +3,7 @@
 👽 My name is Ivan <br/>
 🔑 I'm a Blockchain Smart Contract developer <br/>
 🍄 Currently, I work at Mycelium Lab <br/>
-🎵 I love producing music, creating games, and programming microcontrollers <br/>
+🎵 I also love making music, creating Unity games, and programming Arduino microcontrollers <br/>
 
 💻 Notable projects I worked on: 
   - 🚀 UNO.farm - Yield Farming Aggregator Protocol
