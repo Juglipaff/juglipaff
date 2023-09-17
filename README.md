@@ -3,11 +3,11 @@
 👽 My name is Ivan  
 🔑 I'm a Lead Smart Contract & Web3 Developer with 3+ years of experience   
 🧙 I'm experienced in building DApps with Solidity on various EVM blockchains  
-💻 Currently, I work at eesee
+👩‍💻 Currently, I work at eesee
 🎵 I also love making music, creating games with Unity, and programming microcontrollers  
 
 💻 Notable projects I've worked on:  
-• 🎟️ eesee.io - Gamified NFTFi and SocialFi platform
+• 🕹️ eesee.io - Gamified NFTFi and SocialFi platform
 • 🚀 UNO.farm - Yield Farming Aggregator Protocol  
 • 📝 dWill.app - Decentralized non-Custodial Inheritance Protocol  
 • 🌎 BDNS.app - ENS Fork  
