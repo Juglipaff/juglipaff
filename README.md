@@ -8,7 +8,7 @@
 
 💻 Notable projects I've worked on:  
 • 🕹️ eesee.io - Gamified NFTFi and SocialFi platform  
-• 🚀 UNO.farm - Yield Farming Aggregator Protocol
+• 🚀 UNO.farm - Yield Farming Aggregator Protocol  
 • 📝 dWill.app - Decentralized non-Custodial Inheritance Protocol  
 • 🌎 BDNS.app - ENS Fork  
 
