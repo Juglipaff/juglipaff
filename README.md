@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👽 My name is Ivan  
-🔑 I'm a Lead Smart Contract & Web3 Developer with 4+ years of experience   
+🔑 I'm a Lead Smart Contract & Web3 Developer with 5+ years of experience   
 🧙 I'm experienced in building DApps with Solidity on various EVM blockchains  
 🎵 I also love making music, creating games with Unity, and programming microcontrollers  
 
