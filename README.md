@@ -1,16 +1,9 @@
 ### Hi there 👋
 
-👽 My name is Ivan  
-🔑 I'm a Lead Smart Contract & Web3 Developer with 5+ years of experience   
-🧙 I'm experienced in building DApps with Solidity on various EVM blockchains  
-🎵 I also love making music, creating games with Unity, and programming microcontrollers  
-
-💻 Notable projects I've worked on:  
-• 🕹️ eesee.io - Gamified NFTFi and SocialFi platform  
-• 📈 O1 Markets - Innovative Onchain Market Ecosystem
-• 🚀 UNO.farm - Yield Farming Aggregator Protocol  
-• 📝 dWill.app - Decentralized non-Custodial Inheritance Protocol  
-• 🌎 BDNS.app - ENS Fork  
+My name is Ivan  
+I'm a Lead Smart Contract & Web3 Developer with 5+ years of experience.   
+I'm experienced in building DApps with Solidity on various EVM blockchains.  
+I also love making music, creating games with Unity, programming microcontrollers and abstract math.
 
 If you want to say hi, feel free to reach out to me!
 
