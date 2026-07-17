@@ -1,4 +1,4 @@
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://juglipaff.github.io/neofetch-profile/profile-dark.svg">
-    <img src="https://juglipaff.github.io/neofetch-profile/profile-light.svg">
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/profile-dark.svg">
+  <img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/profile-light.svg">
+</picture>
