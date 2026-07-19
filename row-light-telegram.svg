@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Monaco,monospace" width="985px" height="20px" font-size="16px">
+<style>
+.key { fill: #b04868; }
+.value { fill: #7a5a3a; }
+.cc { fill: #c8b0b8; }
+text, tspan { white-space: pre; }
+</style>
+<rect width="985px" height="20px" fill="#ffffff"/>
+<text x="390" y="15" fill="#3a2028"><tspan class="cc">. </tspan><tspan class="key">Telegram</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">https://t.me/Juglipaff</tspan></text>
+</svg>
