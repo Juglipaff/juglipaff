@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Monaco,monospace" width="985px" height="21px" font-size="16px" viewBox="0 264 985 21">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Monaco,monospace" width="985px" height="21px" font-size="16px" viewBox="0 244 985 21">
 <style>
 @font-face {
   src: local('Consolas'), local('Monaco'), local('monospace');
@@ -46,18 +46,17 @@ text, tspan { white-space: pre; }
 <tspan x="390" y="40" class="cc">. </tspan><tspan class="key">Name</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Ivan Menshchikov</tspan>
 <tspan x="390" y="60" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">5+ years</tspan>
 <tspan x="390" y="80" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Solidity, TypeScript, Rust, Yul</tspan>
-<tspan x="390" y="100" class="cc">. </tspan><tspan class="key">Focus</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">EVM, DeFi, ERC4626, ERC...ss-chain, MEV, gas opt</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">EVM, Haskell, gamedev (Unity, C#)</tspan>
-<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">embedded (Arduino, C/C++)</tspan>
-<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">Hobbies.Other</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">math, finance, music production, gaming</tspan>
-<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Open to new roles</tspan>
-<tspan x="390" y="260">- Contact</tspan><tspan> -——————————————————————————————————————————————-—-</tspan>
-<tspan x="390" y="280" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">juglipaff@gmail.com</tspan>
-<tspan x="390" y="300" class="cc">. </tspan><tspan class="key">CV</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">https://juglipaff.github.io/CV/</tspan>
-<tspan x="390" y="320" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">https://www.linkedin.com/in/juglipaff</tspan>
-<tspan x="390" y="340" class="cc">. </tspan><tspan class="key">Telegram</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">https://t.me/Juglipaff</tspan>
+<tspan x="390" y="120" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">EVM, Haskell, gamedev (Unity, C#)</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">embedded (Arduino, C/C++)</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">Hobbies.Other</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">math, finance, music production, gaming</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Open to new roles</tspan>
+<tspan x="390" y="240">- Contact</tspan><tspan> -——————————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="260" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">juglipaff@gmail.com</tspan>
+<tspan x="390" y="280" class="cc">. </tspan><tspan class="key">CV</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">https://juglipaff.github.io/CV/</tspan>
+<tspan x="390" y="300" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">https://www.linkedin.com/in/juglipaff</tspan>
+<tspan x="390" y="320" class="cc">. </tspan><tspan class="key">Telegram</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">https://t.me/Juglipaff</tspan>
 </text>
-<rect x="390" y="376" width="28" height="18" fill="#2a1820"/><rect x="418" y="376" width="28" height="18" fill="#3d2530"/><rect x="446" y="376" width="28" height="18" fill="#5a3846"/><rect x="474" y="376" width="28" height="18" fill="#8a5464"/><rect x="502" y="376" width="28" height="18" fill="#c68399"/><rect x="530" y="376" width="28" height="18" fill="#e5b5c2"/><rect x="558" y="376" width="28" height="18" fill="#f0d5da"/><rect x="586" y="376" width="28" height="18" fill="#f8ebee"/>
+<rect x="390" y="356" width="28" height="18" fill="#2a1820"/><rect x="418" y="356" width="28" height="18" fill="#3d2530"/><rect x="446" y="356" width="28" height="18" fill="#5a3846"/><rect x="474" y="356" width="28" height="18" fill="#8a5464"/><rect x="502" y="356" width="28" height="18" fill="#c68399"/><rect x="530" y="356" width="28" height="18" fill="#e5b5c2"/><rect x="558" y="356" width="28" height="18" fill="#f0d5da"/><rect x="586" y="356" width="28" height="18" fill="#f8ebee"/>
 <text x="30" y="440" font-size="16px"><tspan fill="#f4a4c0">juglipaff</tspan><tspan fill="#e6d4d8"> ~/projects/github &gt;</tspan></text>
 <rect x="318" y="424" width="10" height="16" fill="#e6d4d8"/>
 </svg>
