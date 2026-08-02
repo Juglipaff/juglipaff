@@ -17,7 +17,7 @@
   </picture>
 </a>
 
-<a href="https://www.linkedin.com/in/juglipaff" align="left" width="100%">
+<a href="https://www.linkedin.com/in/juglipaff" align="left" width="90%">
   <picture align="left" width="100%">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-link-3.svg">
     <img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-light-link-3.svg" align="left" alt="LinkedIn profile of Ivan Menshchikov">
