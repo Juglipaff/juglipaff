@@ -1,10 +1,7 @@
-<div>
-<a href="mailto:juglipaff@gmail.com" align="left" width="100%">
-  <picture align=“left” width="100%">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-pad-0.svg">
-    <img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-light-pad-0.svg" align="left" alt="Ivan Menshchikov (juglipaff) — Tech Lead / Senior Smart Contract Engineer specializing in Solidity, TypeScript, Rust, Yul. Focus: EVM, DeFi, derivatives, orderbooks, AMMs, vaults (ERC-4626), account abstraction (ERC-4337), NFTs (ERC-721/ERC-1155), cross-chain, MEV, gas optimization.">
-  </picture>
-</a>
+<picture align=“left” width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-pad-0.svg">
+  <img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-light-pad-0.svg" align="left" alt="Ivan Menshchikov (juglipaff) — Tech Lead / Senior Smart Contract Engineer specializing in Solidity, TypeScript, Rust, Yul. Focus: EVM, DeFi, derivatives, orderbooks, AMMs, vaults (ERC-4626), account abstraction (ERC-4337), NFTs (ERC-721/ERC-1155), cross-chain, MEV, gas optimization.">
+</picture>
 
 <a href="mailto:juglipaff@gmail.com" align="left" width="100%">
   <picture align="left" width="100%">
@@ -34,12 +31,9 @@
   </picture>
 </a>
 
-<a href="mailto:juglipaff@gmail.com" align="left" width="100%">
-  <picture align="left" width="100%">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-pad-5.svg">
-    <img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-light-pad-5.svg" align="left" alt="Ivan Menshchikov (juglipaff) — Tech Lead / Senior Smart Contract Engineer specializing in Solidity, TypeScript, Rust, Yul. Focus: EVM, DeFi, derivatives, orderbooks, AMMs, vaults (ERC-4626), account abstraction (ERC-4337), NFTs (ERC-721/ERC-1155), cross-chain, MEV, gas optimization.">
-  </picture>
-</a>
+<picture align="left" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-pad-5.svg">
+  <img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-light-pad-5.svg" align="left" alt="Ivan Menshchikov (juglipaff) — Tech Lead / Senior Smart Contract Engineer specializing in Solidity, TypeScript, Rust, Yul. Focus: EVM, DeFi, derivatives, orderbooks, AMMs, vaults (ERC-4626), account abstraction (ERC-4337), NFTs (ERC-721/ERC-1155), cross-chain, MEV, gas optimization.">
+</picture>
 
 <br clear="all">
-</div>
