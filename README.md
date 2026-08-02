@@ -1,5 +1,39 @@
-<img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-pad-0.svg" width="90%" align="left" alt="Ivan Menshchikov Tech Lead"><a href="mailto:juglipaff@gmail.com"><img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-link-1.svg" width="90%" align="left" alt="Email"></a>
-<a href="https://github.io"><img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-link-2.svg" width="90%" align="left" alt="CV"></a>
-<a href="https://linkedin.com"><img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-link-3.svg" width="90%" align="left" alt="LinkedIn"></a>
-<a href="https://t.me"><img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-link-4.svg" width="90%" align="left" alt="Telegram"></a>
-<img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-pad-5.svg" width="90%" align="left" alt="Footer Pad">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-pad-0.svg">
+  <img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-light-pad-0.svg" width="90%" align="left" alt="Ivan Menshchikov (juglipaff) — Tech Lead / Senior Smart Contract Engineer specializing in Solidity, TypeScript, Rust, Yul. Focus: EVM, DeFi, derivatives, orderbooks, AMMs, vaults (ERC-4626), account abstraction (ERC-4337), NFTs (ERC-721/ERC-1155), cross-chain, MEV, gas optimization.">
+</picture>
+
+<a href="mailto:juglipaff@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-link-1.svg">
+    <img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-light-link-1.svg" width="90%" align="left" alt="Email Ivan Menshchikov at juglipaff@gmail.com">
+  </picture>
+</a>
+
+<a href="https://juglipaff.github.io/CV/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-link-2.svg">
+    <img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-light-link-2.svg" width="90%" align="left" alt="CV / résumé of Ivan Menshchikov, smart contract engineer">
+  </picture>
+</a>
+
+<a href="https://www.linkedin.com/in/juglipaff">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-link-3.svg">
+    <img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-light-link-3.svg" width="90%" align="left" alt="LinkedIn profile of Ivan Menshchikov">
+  </picture>
+</a>
+
+<a href="https://t.me/Juglipaff">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-link-4.svg">
+    <img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-light-link-4.svg" width="90%" align="left" alt="Telegram: Juglipaff">
+  </picture>
+</a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-pad-5.svg">
+  <img src="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-light-pad-5.svg" width="90%" align="left" alt="Ivan Menshchikov (juglipaff) — Tech Lead / Senior Smart Contract Engineer specializing in Solidity, TypeScript, Rust, Yul. Focus: EVM, DeFi, derivatives, orderbooks, AMMs, vaults (ERC-4626), account abstraction (ERC-4337), NFTs (ERC-721/ERC-1155), cross-chain, MEV, gas optimization.">
+</picture>
+
+<br clear="all">
