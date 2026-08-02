@@ -1,3 +1,4 @@
+<div>
 <a align="left" width="100%">
   <picture align=“left” width="100%">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juglipaff/juglipaff/main/strip-dark-pad-0.svg">
@@ -41,3 +42,4 @@
 </a>
 
 <br clear="all">
+</div>
