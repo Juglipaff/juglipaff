@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Monaco,monospace" width="985px" height="21px" font-size="16px" viewBox="0 764 985 21">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas,Monaco,monospace" width="985px" height="21px" font-size="16px" viewBox="0 774 985 21">
 <style>
 @font-face {
   src: local('Consolas'), local('Monaco'), local('monospace');
@@ -13,7 +13,7 @@
 .cc { fill: #c8b0b8; }
 text, tspan { white-space: pre; }
 </style>
-<rect width="985px" height="880px" fill="#ffffff" rx="15"/>
+<rect width="985px" height="890px" fill="#ffffff" rx="15"/>
 <text x="15" y="30" fill="#c86888">
 <tspan x="15" y="-20">                                      </tspan>
 <tspan x="15" y="0">                                      </tspan>
@@ -42,21 +42,21 @@ text, tspan { white-space: pre; }
 <tspan x="15" y="460">                                      </tspan>
 </text>
 <text x="15" y="30" fill="#3a2028">
-<tspan x="15" y="540">juglipaff@github</tspan><tspan> -———————————————————————————————————————-—-</tspan>
-<tspan x="15" y="560" class="cc">. </tspan><tspan class="key">Name</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Ivan Menshchikov</tspan>
-<tspan x="15" y="580" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">5+ years</tspan>
-<tspan x="15" y="600" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Solidity, TypeScript, Rust, Yul</tspan>
-<tspan x="15" y="640" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">EVM, Haskell, gamedev (Unity, C#)</tspan>
-<tspan x="15" y="660" class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">embedded (Arduino, C/C++)</tspan>
-<tspan x="15" y="680" class="cc">. </tspan><tspan class="key">Hobbies.Other</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">math, finance, music production, gaming</tspan>
-<tspan x="15" y="720" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Open to new roles</tspan>
-<tspan x="15" y="760">- Contact</tspan><tspan> -——————————————————————————————————————————————-—-</tspan>
-<tspan x="15" y="780" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">juglipaff@gmail.com</tspan>
-<tspan x="15" y="800" class="cc">. </tspan><tspan class="key">CV</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">https://juglipaff.github.io/CV/</tspan>
-<tspan x="15" y="820" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">https://www.linkedin.com/in/juglipaff</tspan>
-<tspan x="15" y="840" class="cc">. </tspan><tspan class="key">Telegram</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">https://t.me/Juglipaff</tspan>
+<tspan x="15" y="550">juglipaff@github</tspan><tspan> -———————————————————————————————————————-—-</tspan>
+<tspan x="15" y="570" class="cc">. </tspan><tspan class="key">Name</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">Ivan Menshchikov</tspan>
+<tspan x="15" y="590" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">5+ years</tspan>
+<tspan x="15" y="610" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Solidity, TypeScript, Rust, Yul</tspan>
+<tspan x="15" y="650" class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">EVM, Haskell, gamedev (Unity, C#)</tspan>
+<tspan x="15" y="670" class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">embedded (Arduino, C/C++)</tspan>
+<tspan x="15" y="690" class="cc">. </tspan><tspan class="key">Hobbies.Other</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">math, finance, music production, gaming</tspan>
+<tspan x="15" y="730" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Open to new roles</tspan>
+<tspan x="15" y="770">- Contact</tspan><tspan> -——————————————————————————————————————————————-—-</tspan>
+<tspan x="15" y="790" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">juglipaff@gmail.com</tspan>
+<tspan x="15" y="810" class="cc">. </tspan><tspan class="key">CV</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">https://juglipaff.github.io/CV/</tspan>
+<tspan x="15" y="830" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">https://www.linkedin.com/in/juglipaff</tspan>
+<tspan x="15" y="850" class="cc">. </tspan><tspan class="key">Telegram</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">https://t.me/Juglipaff</tspan>
 </text>
-<rect x="15" y="876" width="28" height="18" fill="#2a1820"/><rect x="43" y="876" width="28" height="18" fill="#3d2530"/><rect x="71" y="876" width="28" height="18" fill="#5a3846"/><rect x="99" y="876" width="28" height="18" fill="#8a5464"/><rect x="127" y="876" width="28" height="18" fill="#c68399"/><rect x="155" y="876" width="28" height="18" fill="#e5b5c2"/><rect x="183" y="876" width="28" height="18" fill="#f0d5da"/><rect x="211" y="876" width="28" height="18" fill="#f8ebee"/>
-<text x="30" y="860" font-size="16px"><tspan fill="#b04868">juglipaff</tspan><tspan fill="#3a2028"> ~/projects/github &gt;</tspan></text>
-<rect x="318" y="844" width="10" height="16" fill="#3a2028"/>
+<rect x="15" y="510" width="28" height="18" fill="#2a1820"/><rect x="43" y="510" width="28" height="18" fill="#3d2530"/><rect x="71" y="510" width="28" height="18" fill="#5a3846"/><rect x="99" y="510" width="28" height="18" fill="#8a5464"/><rect x="127" y="510" width="28" height="18" fill="#c68399"/><rect x="155" y="510" width="28" height="18" fill="#e5b5c2"/><rect x="183" y="510" width="28" height="18" fill="#f0d5da"/><rect x="211" y="510" width="28" height="18" fill="#f8ebee"/>
+<text x="30" y="870" font-size="16px"><tspan fill="#b04868">juglipaff</tspan><tspan fill="#3a2028"> ~/projects/github &gt;</tspan></text>
+<rect x="318" y="854" width="10" height="16" fill="#3a2028"/>
 </svg>
