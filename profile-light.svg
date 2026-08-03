@@ -58,5 +58,5 @@ text, tspan { white-space: pre; }
 </text>
 <rect x="390" y="356" width="28" height="18" fill="#2a1820"/><rect x="418" y="356" width="28" height="18" fill="#3d2530"/><rect x="446" y="356" width="28" height="18" fill="#5a3846"/><rect x="474" y="356" width="28" height="18" fill="#8a5464"/><rect x="502" y="356" width="28" height="18" fill="#c68399"/><rect x="530" y="356" width="28" height="18" fill="#e5b5c2"/><rect x="558" y="356" width="28" height="18" fill="#f0d5da"/><rect x="586" y="356" width="28" height="18" fill="#f8ebee"/>
 <text x="30" y="440" font-size="16px"><tspan fill="#b04868">juglipaff</tspan><tspan fill="#3a2028"> ~/projects/github &gt;</tspan></text>
-<rect x="318" y="427" width="10" height="16" fill="#3a2028"/>
+<rect x="318" y="426" width="10" height="16" fill="#3a2028"/>
 </svg>
